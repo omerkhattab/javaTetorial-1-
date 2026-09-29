@@ -8,6 +8,7 @@ package com.mycompany.stack;
  *
  * @author DELL
  */
+// stack teturial 
 public class Stackx {
   
 
